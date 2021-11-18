@@ -17,14 +17,6 @@ An Electron-based shell for cloud-native development
 
 [starpit](https://www.npmjs.com/~starpit)
 
-published 10.8.2 • a month agopublished 10.8.2 a month ago
-
-M
-
-Q
-
-P
-
 ### root-front
 
 ](https://www.npmjs.com/package/root-front)
@@ -90,15 +82,6 @@ s3 related commands for Kui
 
 [starpit](https://www.npmjs.com/~starpit)
 
-published 10.8.2 • a month agopublished 10.8.2 a month ago
-
-M
-
-Q
-
-P
-
-[![](https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg "public package")
 
 ### shell-ui
 
@@ -110,15 +93,6 @@ a visualization shell manage tools
 
 [zhangyushuai](https://www.npmjs.com/~zhangyushuai)
 
-published 0.1.14-BETA-4 • a month agopublished 0.1.14-BETA-4 a month ago
-
-M
-
-Q
-
-P
-
-[![](https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg "public package")
 
 ### material-ui-shell
 
@@ -130,15 +104,6 @@ material-ui-shell React component
 
 [tarik.huber](https://www.npmjs.com/~tarik.huber)
 
-published 2.0.13 • 9 days agopublished 2.0.13 9 days ago
-
-M
-
-Q
-
-P
-
-[![](https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg "public package")
 
 ### rmw-shell
 
@@ -150,15 +115,6 @@ React template with Material UI, Firebase, routing...
 
 [tarik.huber](https://www.npmjs.com/~tarik.huber)
 
-published 10.0.14 • 9 days agopublished 10.0.14 9 days ago
-
-M
-
-Q
-
-P
-
-[![](https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg "public package")
 
 ### @salamanders/shell
 
