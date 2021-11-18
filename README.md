@@ -5,7 +5,7 @@ www.shellui.com
 
 [shell ui - npm search](https://www.npmjs.com/search?q=shell%20ui)
 
-[
+
 
 ### @kui-shell/core
 
@@ -37,13 +37,6 @@ P
 
 [michaeladze](https://www.npmjs.com/~michaeladze)
 
-published 1.13.46 • 2 months agopublished 1.13.46 2 months ago
-
-M
-
-Q
-
-P
 
 [![](https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg "public package")
 
@@ -52,8 +45,6 @@ P
 ](https://www.npmjs.com/package/everest-native-shell)
 
 This is a POC to display the UI shell for Everest Native
-
-![](https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9kOTFhZjc1ZDAwMmU4MzYyYjIzYjJjOTA2MTBjNTNhZj9zaXplPTEwMCZkZWZhdWx0PXJldHJvIn0.4C7TKDlbBh6CmI3iVcmzMDAkyeMhd2EUXXCsAVmGdMU)
 
 [binhxn](https://www.npmjs.com/~binhxn)
 
@@ -73,7 +64,6 @@ P
 
 Kubernetes visualization plugin for kubernetes
 
-![](https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci8xMGU4NDQyNDU2YjQ0MDc1ODMwYWJiYWVkYWRmYmM4Mj9zaXplPTEwMCZkZWZhdWx0PXJldHJvIn0.S-BVoJbvxz0SgEyu6N9YlQ_o2Xw6Nfkapokm_C9lbEk)
 
 [starpit](https://www.npmjs.com/~starpit)
 
