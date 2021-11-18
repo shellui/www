@@ -25,8 +25,6 @@ Q
 
 P
 
-[![](https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg "public package")
-
 ### root-front
 
 ](https://www.npmjs.com/package/root-front)
@@ -38,7 +36,6 @@ P
 [michaeladze](https://www.npmjs.com/~michaeladze)
 
 
-[![](https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg "public package")
 
 ### everest-native-shell
 
@@ -50,13 +47,6 @@ This is a POC to display the UI shell for Everest Native
 
 published 1.0.0 • 6 months agopublished 1.0.0 6 months ago
 
-M
-
-Q
-
-P
-
-[![](https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg "public package")
 
 ### @kui-shell/plugin-kubectl
 
@@ -67,15 +57,6 @@ Kubernetes visualization plugin for kubernetes
 
 [starpit](https://www.npmjs.com/~starpit)
 
-published 10.8.2 • a month agopublished 10.8.2 a month ago
-
-M
-
-Q
-
-P
-
-[![](https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg "public package")
 
 ### @vtex/eslint-plugin-admin-ui
 
@@ -87,15 +68,6 @@ P
 
 [lucasaarcoverde](https://www.npmjs.com/~lucasaarcoverde)
 
-published 0.2.18 • a month agopublished 0.2.18 a month ago
-
-M
-
-Q
-
-P
-
-[![](https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg "public package")
 
 ### polestar-ui-kit
 
@@ -107,15 +79,6 @@ P
 
 [nkia](https://www.npmjs.com/~nkia)
 
-published 0.12.2 • 5 months agopublished 0.12.2 5 months ago
-
-M
-
-Q
-
-P
-
-[![](https://static.npmjs.com/26de4581a89de8a6501ce9a3dbb06b85.svg "public package")
 
 ### @kui-shell/plugin-s3
 
